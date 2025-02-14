@@ -1,0 +1,21 @@
+{
+  "name": "prrobertstheme",
+  "displayName": "PRRobertsTheme",
+  "description": "A Sublime Text modified theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pauls Sublime Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pauls Sublime Theme-color-theme.json"
+      }
+    ]
+  }
+}
