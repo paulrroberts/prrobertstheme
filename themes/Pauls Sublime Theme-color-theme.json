@@ -16,6 +16,7 @@
     "debugView.stateLabelBackground": "#ebedef",
     "debugView.stateLabelForeground": "#333333",
     "debugView.valueChangedHighlight": "#377380",
+    "descriptionForeground": "#282923",
     "diffEditor.insertedTextBackground": "#67862980",
     "diffEditor.removedTextBackground": "#91284B80",
     "dropdown.background": "#414339",
