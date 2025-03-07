@@ -103,7 +103,7 @@
     "progressBar.background": "#75715E",
     "quickInput.background": "#282923",
     "quickInput.foreground": "#cccccc",
-    "search.resultsInfoForeground": "#282923",
+    "search.resultsInfoForeground": "#ffffff",
     "selection.background": "#ccccc7",
     "settings.dropdownForeground": "#f8f8f2",
     "settings.focusedRowBackground": "#000000",
