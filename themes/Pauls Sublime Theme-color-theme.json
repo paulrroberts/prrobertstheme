@@ -141,6 +141,8 @@
     "terminal.ansiWhite": "#e3e3dd",
     "terminal.ansiYellow": "#B3B42B",
     "titleBar.activeBackground": "#1e1f1c",
+    "welcomePage.tileBackground": "#464741",
+    "welcomePage.tileHoverBackground": "#5c5d58",
     "widget.shadow": "#000000"
   },
   "tokenColors": [
