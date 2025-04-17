@@ -15,6 +15,11 @@
         "label": "Pauls Sublime Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Pauls Sublime Theme-color-theme.json"
+      },
+      {
+        "label": "Pauls Solarized Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pauls-solarized-theme.json"
       }
     ]
   }
